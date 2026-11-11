@@ -1,3 +1,8 @@
+## ThinkPHP-PanGu - 盘古ThinkPHP开源索引!
+面向 ThinkPHP 的开源工程索引：组件、框架、服务与发布工具，按能力组织，持续整理。
+仓库地址：**<https://github.com/indiboy-create/ThinkPHP-PanGu/>**
+在线站点：**<https://indiboy-create.github.io/ThinkPHP-PanGu/>**
+
 # think-mailer
 
 基于 [PHPMailer](https://github.com/PHPMailer/PHPMailer) 封装的 ThinkPHP 8 邮件发送组件，支持 SMTP / sendmail / mail 三种驱动、模板邮件、纯文本邮件、附件、内嵌图片、抄送密送、自定义邮件头等常用功能。
